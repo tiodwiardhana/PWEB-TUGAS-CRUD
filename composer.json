@@ -1,0 +1,17 @@
+{
+    "name": "Tiodwii/pweb",
+    "description": "Tugas PWEB My SQL",
+    "authors": [
+        {
+            "name": "Tiodwii",
+            "email": "ardhanatio@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8080"
+    },
+    "config": {
+        "process-timeout":0
+      }
+}
